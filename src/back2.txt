@@ -4,6 +4,7 @@ use ratatui::{
     crossterm::event::{self, Event},
 };
 
+//main
 fn main() -> Result<()> {
     color_eyre::install()?;
     let terminal = ratatui::init();
