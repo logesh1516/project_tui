@@ -15,7 +15,7 @@ use ratatui::{
 // ANCHOR_END: imports
 
 //rust
-//rust
+//rust 
 
 enter the colireyre
 fn main() -> color_eyre::Result<()> {
