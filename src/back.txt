@@ -12,7 +12,6 @@ use ratatui::{
 
 //comment of this tui
 // ANCHOR_END: imports
-
 //rust 
 
 enter the colireyre
