@@ -9,8 +9,7 @@ use ratatui::{
     text::{Line, Text},
     widgets::{Block, Paragraph, Widget},
 }
-
-//comment
+comment
  of this tui
 // ANCHOR_END: imports
 //rust 
