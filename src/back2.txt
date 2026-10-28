@@ -5,7 +5,6 @@ use ratatui::{
     DefaultTerminal,
     crossterm::event::{self, Event},
 };
-
 //main
 
 fn main() -> Result<()> {
