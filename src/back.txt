@@ -8,7 +8,7 @@ use ratatui::{
     symbols::border,
     text::{Line, Text},
    widgets::{Block, Paragraph, Widget},
-cmment
+cmmlent
 
  of this tui
 // ANCHOR_END: imports
