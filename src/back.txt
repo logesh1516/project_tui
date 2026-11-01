@@ -10,7 +10,7 @@ use ratatui::{
    widgets::{Block, Paragraph, Widget},
 cmmlent
 
- of this tui
+ of his tui
 // ANCHOR_END: imports
 //rust 
 enter the colireyre
