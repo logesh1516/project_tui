@@ -10,7 +10,7 @@ use ratatui::{
     text::{Line, Text},
    widgets::{Block, Paragraph, Widget},
 cmlent
- o s tui
+ o s tu
 
 // ANCHOR_END: imports
 //rust 
