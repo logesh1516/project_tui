@@ -11,7 +11,7 @@ use ratatui::{
    widgets::{Block, Paragraph, Widget},
 cmlent
 
- o  t
+   t
 
 // ANCHOR_END: imports
 //rust 
